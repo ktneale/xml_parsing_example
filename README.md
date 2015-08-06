@@ -15,3 +15,8 @@ Tested using Expat library version:
 Headers sourced from: http://expat.cvs.sourceforge.net/viewvc/expat/expat/?view=tar&pathrev=V1_0
 
 Linked against version: libexpat.so.1 libexpat.so.1.6.0
+
+
+#### To run
+
+$ ./a.out < xml

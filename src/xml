@@ -1,0 +1,6 @@
+<tag attr1="red" attr2="medium">
+    <nestedtag attr1="blue" attr2="large">
+        <book title="Get rich quick" author="Robin Banks">This book is a guide for the apathetic entrepreneur...<subtag attb1="4"></subtag></book>
+        <book title="It's a dog's life" author="Nora Bone"/>
+    </nestedtag>
+</tag>
